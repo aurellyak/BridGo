@@ -13,7 +13,7 @@ Ini adalah project pertama saya untuk bootcamp Mobile Development.
 ![Hello World Screenshot](https://raw.githubusercontent.com/aurellyak/BridGo/main/helloworld.png)
 
 notes: tidak bisa menjalankan emulator karena keterbatasan device
-![Hello World Screenshot](https://raw.githubusercontent.com/aurellyak/BridGo/main/emulatorprocessterminated.png)
+![Screenshoot kendala](https://raw.githubusercontent.com/aurellyak/BridGo/main/emulatorProcessTerminated.png)
 
 ## Bahasa Pemrograman
 - Kotlin
