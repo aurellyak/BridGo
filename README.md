@@ -10,7 +10,7 @@ Ini adalah project pertama saya untuk bootcamp Mobile Development.
 
 ## Screenshot Tampilan
 
-![Hello World Screenshot](https://raw.githubusercontent.com/aurellyak/BridGo/main/screenshots/helloworld.png)
+![Hello World Screenshot](https://raw.githubusercontent.com/aurellyak/BridGo/main/helloworld.png)
 
 ## Bahasa Pemrograman
 - Kotlin
