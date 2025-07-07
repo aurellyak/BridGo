@@ -15,7 +15,7 @@ Ini adalah project pertama saya untuk bootcamp Mobile Development.
 notes: tidak bisa menjalankan emulator karena keterbatasan device
 ![Screenshoot kendala](https://raw.githubusercontent.com/aurellyak/BridGo/main/Screenshoot/emulatorProcessTerminated.png)
 
-update:
+update setelah upgrade device:
 
 ![Screenshoot Update](https://raw.githubusercontent.com/aurellyak/BridGo/main/Screenshoot/updateHelloWorld.png)
 
