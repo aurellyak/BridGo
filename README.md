@@ -10,13 +10,13 @@ Ini adalah project pertama saya untuk bootcamp Mobile Development.
 
 ## Screenshot Tampilan
 
-![Hello World Screenshot](https://raw.githubusercontent.com/aurellyak/BridGo/main/helloworld.png)
+![Hello World Screenshot](https://raw.githubusercontent.com/aurellyak/BridGo/main/Screenshoot/helloworld.png)
 
 notes: tidak bisa menjalankan emulator karena keterbatasan device
-![Screenshoot kendala](https://raw.githubusercontent.com/aurellyak/BridGo/main/emulatorProcessTerminated.png)
+![Screenshoot kendala](https://raw.githubusercontent.com/aurellyak/BridGo/main/Screenshoot/emulatorProcessTerminated.png)
 
 update:
-![Screenshoot Update](https://raw.githubusercontent.com/aurellyak/BridGo/main/updateHelloWorld.png)
+![Screenshoot Update](https://raw.githubusercontent.com/aurellyak/BridGo/main/Screenshoot/updateHelloWorld.png)
 
 
 ## Bahasa Pemrograman
