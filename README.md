@@ -16,6 +16,7 @@ notes: tidak bisa menjalankan emulator karena keterbatasan device
 ![Screenshoot kendala](https://raw.githubusercontent.com/aurellyak/BridGo/main/Screenshoot/emulatorProcessTerminated.png)
 
 update:
+
 ![Screenshoot Update](https://raw.githubusercontent.com/aurellyak/BridGo/main/Screenshoot/updateHelloWorld.png)
 
 
